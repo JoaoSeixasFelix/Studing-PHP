@@ -1,4 +1,4 @@
 # Studing-PHP
 
 
-Learning about PHP
+Learning about PHP, from server side.
